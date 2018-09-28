@@ -1,0 +1,71 @@
+{
+  "bookmarklistCollection": [
+    {
+      "id": "040306d8-b771-4010-a40e-c7fa4c477934",
+      "userid": "b1e935ab-8bbe-45a4-9087-da877e0086b6",
+      "title": "TEST",
+      "bookmarks": []
+    },
+    {
+      "id": "d45a8f6a-4051-465d-a7ed-d134635685d9",
+      "userid": "b1e935ab-8bbe-45a4-9087-da877e0086b6",
+      "title": "TEST",
+      "bookmarks": []
+    },
+    {
+      "id": "42c541a5-f155-4355-90a8-3177b8af86c3",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Boston",
+      "bookmarks": []
+    },
+    {
+      "id": "8aaa8e1e-a9e3-48ac-ab4c-fd1059b27cec",
+      "userid": "2f439f32-0fc9-4efe-8481-eaf84cbd7e0f",
+      "title": "Test",
+      "bookmarks": [
+        {
+          "id": "a7fc2318-b1c8-4b9a-a790-2e3cf005b722",
+          "title": "",
+          "link": "",
+          "summary": "    "
+        }
+      ]
+    },
+    {
+      "id": "073a2929-8c85-4123-a9b4-b1c5b68adb33",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Test1",
+      "bookmarks": []
+    },
+    {
+      "id": "01e7fd4d-27bd-4a12-a25a-7aed984e9e12",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "2",
+      "bookmarks": []
+    },
+    {
+      "id": "3ca33434-48d7-4e02-8ebf-1a2abea7a2e2",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "3",
+      "bookmarks": []
+    },
+    {
+      "id": "964b2b32-3a46-4275-bd33-681b93c4498d",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "4",
+      "bookmarks": []
+    },
+    {
+      "id": "fc416db0-b309-49ac-81bf-6d990529692f",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "5",
+      "bookmarks": []
+    },
+    {
+      "id": "088ad744-3c6b-4961-a451-486274331465",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "5",
+      "bookmarks": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+<h2>Statistics across all users</h2>
+<div class="ui raised very padded text container segment">
+  <div class="ui statistics">
+    <div class="statistic">
+      <div class="value">
+        {{size}}
+      </div>
+      <div class="label">
+        <i class="book icon"></i> Total Bookmark Collections
+      </div>
+    </div>
+    <div class="statistic">
+      <div class="value">
+        {{average}}
+      </div>
+      <div class="label">
+        <i class="book icon"></i>Average Bookmarks per user
+      </div>
+    </div>
+    <div class="statistic">
+      <div class="value">
+        {{largest}}
+      </div>
+      <div class="label">
+        <i class="book icon"></i>User with most Bookmarks
+      </div>
+    </div>
+    <div class="statistic">
+      <div class="value">
+        {{smallest}}
+      </div>
+      <div class="label">
+        <i class="book icon"></i> User with Least bookmarks
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2>Statistics for {{user.firstName}} {{user.lastName}}</h2>
+<div class="ui raised very padded text container segment">
+<div class="ui four statistics">
+  <div class="statistic">
+    <div class="value">
+      {{usercollection}}
+    </div>
+    <div class="label">
+      <i class="book icon"></i> Total Bookmark Collections
+    </div>
+  </div>
+  <div class="statistic">
+    <div class="text value">
+       {{totalBookmarks}}
+    </div>
+    <div class="label">
+      <i class="book icon"></i>Total Number Bookmarks
+    </div>
+  </div>
+  <div class="statistic">
+    <div class="value">
+       {{longest}}
+    </div>
+    <div class="label">
+      <i class="book icon"></i>Name of Collection with most bookmarks
+    </div>
+  </div>
+  <div class="statistic">
+    <div class="value">
+      {{least}}
+    </div>
+    <div class="label">
+      <i class="book icon"></i>Name of collection with Least Bookmarks
+    </div>
+  </div>
+</div>
+</div>
+

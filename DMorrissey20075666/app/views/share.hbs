@@ -1,0 +1,19 @@
+{{> menu id="share"}}
+ <section class="ui segment">
+   <h1 class="ui header">
+     Welcome to the Share Page 
+   </h1>   
+  <h3>Here you can see all the bookmark our other users are saving</h3>
+  <div class="ui centered blue statistic">
+    <div class="value">
+      {{size}}
+    </div>
+    <div class="label">
+      Total Bookmarks Saved
+    </div>
+  </div>
+    <div class="ui divider"></div>
+      {{> listbookmarkcollection}}
+    </div>
+</section>
+

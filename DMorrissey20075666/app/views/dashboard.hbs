@@ -1,0 +1,11 @@
+{{> menu id="dashboard"}}
+<section class="ui segment">
+<h1 class="ui header">
+  Welcome {{user.firstName}} {{user.lastName}}
+</h1>
+
+<h2> Your Bookmark Collection</h2>
+<section class="ui segment">
+  {{> listbookmarkcollection}}
+  {{> addbookmarklist}}
+ 

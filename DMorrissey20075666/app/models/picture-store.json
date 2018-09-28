@@ -1,0 +1,35 @@
+{
+  "pictures": [
+    {},
+    {
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "photos": [
+        {
+          "img": "http://res.cloudinary.com/gomark/image/upload/v1493210201/rmshprjaf2fmacys6omg.jpg",
+          "title": "Boston"
+        }
+      ]
+    },
+    {
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "photos": []
+    },
+    {
+      "userid": "b1e935ab-8bbe-45a4-9087-da877e0086b6",
+      "photos": []
+    },
+    {
+      "userid": "ff08707a-160e-4862-ace8-c1cb429f988c",
+      "photos": []
+    },
+    {
+      "userid": "2f439f32-0fc9-4efe-8481-eaf84cbd7e0f",
+      "photos": [
+        {
+          "img": "http://res.cloudinary.com/gomark/image/upload/v1493212062/bnzfy7t9ej2demz6vvyq.jpg",
+          "title": "Boston"
+        }
+      ]
+    }
+  ]
+}
